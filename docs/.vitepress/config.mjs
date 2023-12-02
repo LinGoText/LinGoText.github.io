@@ -14,7 +14,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Documentation',
         items: [
           { text: 'Introduction to LinGo', link: '/intro' },
           { text: 'Installing LinGo', link: '/install' },
