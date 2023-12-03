@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,R as n}from"./chunks/framework.-3ULgdun.js";const k=JSON.parse('{"title":"Installing LinGo","description":"","frontmatter":{},"headers":[],"relativePath":"install.md","filePath":"install.md"}'),o={name:"install.md"},i=n("",39),s=[i];function l(r,h,p,d,u,c){return a(),t("div",null,s)}const m=e(o,[["render",l]]);export{k as __pageData,m as default};
