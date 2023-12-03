@@ -9,7 +9,19 @@ We're now ready to install LinGo. Like most open source applications, there are 
 1) Installing the binaries (executables).
 2) Building from source
 
-So far building from source is the only available option, so we'll stick with that. As soon as I'll include some binaries when I'll publish the first releases I'll also add a section on how to run the app from the binaries (even though it's considerably easier).
+I would personally recommend to install LinGo by downloading the executables, unless you want to analyse and modify the code yourself; in that case building from source is ideal since you can run and see the changes you're making immediately.
+
+## Installing the executables
+
+To install LinGo, go on the [github page](https://github.com/hsnborn22/LinGo), then head over to "releases"; click on the "tags" button.
+
+![help photo1](https://raw.githubusercontent.com/hsnborn22/LinGo/main/imgs/download1.png)
+
+
+Here you will see all the releases (versions) of the app; click on the latest one, and download the .zip file for your operating system. Once you have downloaded your zip file, unzip it whenever you want and you're ready to go; when you will go inside the folder, you will find an executable file named "LinGo"; run it and the application will start.
+
+![help photo2](https://raw.githubusercontent.com/hsnborn22/LinGo/main/imgs/download2.png)
+![help photo3](https://raw.githubusercontent.com/hsnborn22/LinGo/main/imgs/download3.png)
 
 ## Building from source:
 
