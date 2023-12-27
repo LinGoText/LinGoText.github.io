@@ -23,6 +23,12 @@ Here you will see all the releases (versions) of the app; click on the latest on
 ![help photo2](https://raw.githubusercontent.com/hsnborn22/LinGo/main/imgs/download2.png)
 ![help photo3](https://raw.githubusercontent.com/hsnborn22/LinGo/main/imgs/download3.png)
 
+**Note**: If you're using pipewire on your system or, in general, you're encountering audio-mixing based errors, it might be because you don't have alsa installed on your computer. To do this, just run the following line of code in the terminal:
+
+```bash
+sudo apt install libasound2-dev
+```
+
 ## Building from source:
 
 LinGo was written in Go, so in order to build it from source we'll need the Go compiler installed on our machine. In order to not make this documentation excessively long, I'll report here a [very easy-to-follow Go installation guide](https://go.dev/doc/install), available for linux, macOS and windows.

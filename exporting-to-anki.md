@@ -26,6 +26,8 @@ When you will open it, it will look something like this
 
 ![dictionary.txt image](imgs/dict.png)
 
+You can also create a dictionary file by pressing "z", but in this case you will get flashcards where on the back you also have the latinization of the word. This is particularly useful if you're studying languages like japanese or chinese, which have kanji and hanzi, and you want to drill your knowledge of the characters as well. (The pinyin latinization of the hanzi provided by the app includes tones so you can also train your pronunciation)
+
 We will now see how to import this in both anki and memrise:
 
 

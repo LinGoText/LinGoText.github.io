@@ -32,6 +32,11 @@ One of the best ways to pick up new vocabulary in a language is that of reading 
 
 What this app does, in short, is the following: it allows you to load texts in your target language, read them, listen to the pronunciation of each word and translate them without leaving the application and the text and finally also marking each word with your current level of knowledge of it.
 
+
+If you're studying a language which uses a different writing system (like russian, greek, chinese, arabic, hebrew, thai, japanese exc.) the app also supports a romanization support out of the box which allows you to get the latin "phonetic equivalent" of all the words in your text to help you pronounce it.
+
+The app also allows you to visualize the stroke order of japanese kanji and chinese hanzi while you're reading; being a student of mandarin chinese myself, I implemented this feature mostly for myself and it speeded up my learning significantly.
+
 The words you don't know can then be automatically exported to Anki, memrise and other electronic flash card systems very easily. 
 
 ## Table of contents:

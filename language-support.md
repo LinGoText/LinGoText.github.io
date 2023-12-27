@@ -223,3 +223,24 @@ Here I will list all the languages which have tts and language translation suppo
 |xh-ZA|Xhosa|                                                                       
 |yi-YD|Yiddish|                                                                       
 |zu-ZA |Zulu|
+
+## Languages with latinization support
+
+Latinization (i.e the transformation of words in a language into a phonetically similar form expressed in latin script) is supported for the following languages:
+
+* Japanese kana and kanji
+* Chinese hanzi
+* Korean hangul
+* Ge'ez script (used by tigre, tigrinya, amharic exc.)
+* Hindi
+* Arabic
+* Hebrew
+* Greek
+* Persian
+* Burmese
+* Lao
+* Khmer
+* Thai
+* Armenian
+* Georgian
+* Cyrillic (russian, serbian, mongolian, kazakh, bulgarian, ukrainian and many more)
